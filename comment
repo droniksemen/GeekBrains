@@ -1,0 +1,14 @@
+{
+  "result": 1,
+  "comment": [
+     {
+         "id_product": 1,
+         "price": 100
+     },
+     {
+         "id_product": 2,
+         "price": 200
+     }
+  ],
+  "amount": 100
+}
