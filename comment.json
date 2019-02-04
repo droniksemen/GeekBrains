@@ -2,9 +2,6 @@
   "result": 1,
   "comment": [
      {
-         "id_product": 1,
-         "price": 100
+         "userMessage": "Ваш отзыв был передан на модерацию"
      }
-  ],
-  "amount": 100
-}
+  ]
