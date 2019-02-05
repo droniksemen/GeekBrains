@@ -2,6 +2,13 @@
   "result": 1,
   "comment": [
      {
-         "userMessage": "Ваш отзыв был передан на модерацию"
+         "id_comment": 1,
+         "text": "Текст отзыва"
+     },
+     {
+        "id_comment": 2,
+        "text": "Текст отзыва"
      }
-  ]
+  ],
+  "amount": 100
+}
