@@ -1,6 +1,6 @@
 {
   "result": 1,
-  "comment": [
+  "comment":
      {
          "id_comment": 1,
          "text": "Текст отзыва"
@@ -9,4 +9,3 @@
         "id_comment": 2,
         "text": "Текст отзыва"
      }
-  ]
