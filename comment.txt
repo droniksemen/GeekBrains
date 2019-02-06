@@ -3,7 +3,7 @@
     "comment": [
         {
             "id_comment": 1,
-            "text": "Текст сообщения"
+            "text": "Добрый день"
         },
         {
             "id_comment": 2,
