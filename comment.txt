@@ -1,1 +1,13 @@
-<script>alert(1);</script>
+{
+    "result": 1,
+    "comment": [
+        {
+            "id_comment": 1,
+            "text": "Текст сообщения"
+        },
+        {
+            "id_comment": 2,
+            "text": "Текст сообщения"
+        }
+    ]
+}
