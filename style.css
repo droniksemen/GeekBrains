@@ -1,0 +1,11 @@
+.comment {
+  display: block;
+  border: 2px solid #333;
+  min-height: 100px;
+}
+
+.comment_item {
+  border: 2px solid green;
+  min-height: 40px;
+  margin: 5px;
+}
